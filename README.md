@@ -1,7 +1,7 @@
 # Mobile-Application-Training
 This contains all files and links to each repository.
 
-##Kotlin and Android Files
+# Kotlin and Android Files
 1. Basic Program of Kotlin: 
 2. Login Signup Page User Interface : 
 3. Notes Application with local database : 
