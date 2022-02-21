@@ -2,9 +2,6 @@
 This is the Repository for my Mobile Application Training!!
 Please find the links below:
 
-# Mobile-Application-Training
-This contains all files and links to each repository.
-
 # Kotlin and Android Files
  https://github.com/ameyjoshii/Android-Projects.git
 
