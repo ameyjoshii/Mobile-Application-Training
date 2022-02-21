@@ -1,3 +1,7 @@
+# Hi, I am Amey Joshi 
+This is the Repository for my Mobile Application Training!!
+Please find the links below:
+
 # Mobile-Application-Training
 This contains all files and links to each repository.
 
